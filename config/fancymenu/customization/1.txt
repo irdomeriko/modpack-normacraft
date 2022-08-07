@@ -1,0 +1,30 @@
+type = menu
+
+customization-meta {
+  identifier = cus.tom.1
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 82
+  width = 254
+  actionid = 3bd2efda-1345-4df6-8c99-177d2202d5c01658313861072
+  action = addbutton
+  y = 74
+  label = buscar actualizacion
+  value = https://pastebin.com/zJ1zKK8c
+  height = 20
+}
+

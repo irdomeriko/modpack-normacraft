@@ -1,0 +1,60 @@
+type = menu
+
+customization-meta {
+  identifier = custom1
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 74
+  width = 289
+  actionid = 5257dfe3-2ee5-4387-a07b-91005cdb8d0e1658313062669
+  action = addbutton
+  y = 49
+  label = Buscar actualicacion
+  value = https://pastebin.com/zJ1zKK8c
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 73
+  width = 289
+  actionid = da9dc141-ca92-4723-b6fa-6e31d34afe421658313406437
+  action = addbutton
+  y = 103
+  label = Actualizar
+  value = 
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = closegui
+  x = 73
+  width = 289
+  actionid = 525f727a-7e52-4816-b497-e5192bf3239f1658313462751
+  action = addbutton
+  y = 177
+  label = Salir
+  value = null
+  height = 20
+}
+

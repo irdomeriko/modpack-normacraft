@@ -1,0 +1,148 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = Imagenes\boton1.png
+  label = Buscar actualizacion
+  loopbackgroundanimations = true
+  x = 57
+  width = 152
+  actionid = 85c5dfc9-6748-470e-b4f4-c998a0e0ec731658314237758
+  action = addbutton
+  y = 59
+  backgroundnormal = Imagenes\boton0.png
+  value = https://pastebin.com/zJ1zKK8c
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = Imagenes\boton1.png
+  label = Actualizar
+  loopbackgroundanimations = true
+  x = 215
+  width = 154
+  actionid = 205baadb-901f-406d-bcb3-0e4a0a86ef671658314487661
+  action = addbutton
+  y = 58
+  backgroundnormal = Imagenes\boton0.png
+  value = https://github.com/irdomeriko/modpack-normacraft
+  height = 20
+}
+
+customization {
+  identifier = %id=505154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton0.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=400334%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+

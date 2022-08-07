@@ -1,0 +1,132 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.SoundOptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345220%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505220%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345286%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505198%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345198%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=400330%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345264%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=425308%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345176%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505242%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=505176%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
+customization {
+  identifier = %id=345242%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = Imagenes\boton1.png
+  backgroundnormal = Imagenes\boton0.png
+}
+
